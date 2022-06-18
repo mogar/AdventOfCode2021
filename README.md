@@ -2,6 +2,8 @@
 
 Solutions for the problems here: https://adventofcode.com/2021/day/1
 
+I was originally planning to do the whole month, but then I got busy with a new job. Maybe next year...
+
 ## Usage
 
 Compiling:
